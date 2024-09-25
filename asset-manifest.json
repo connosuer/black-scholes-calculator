@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/black-scholes-calculator/static/css/main.72291b4e.css",
+    "main.js": "/black-scholes-calculator/static/js/main.5c54228c.js",
+    "static/js/453.9da97b31.chunk.js": "/black-scholes-calculator/static/js/453.9da97b31.chunk.js",
+    "index.html": "/black-scholes-calculator/index.html",
+    "main.72291b4e.css.map": "/black-scholes-calculator/static/css/main.72291b4e.css.map",
+    "main.5c54228c.js.map": "/black-scholes-calculator/static/js/main.5c54228c.js.map",
+    "453.9da97b31.chunk.js.map": "/black-scholes-calculator/static/js/453.9da97b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72291b4e.css",
+    "static/js/main.5c54228c.js"
+  ]
+}
